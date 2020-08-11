@@ -1,8 +1,8 @@
-### Hi there 👋
+### I’m looking for help with getting rid of procrastination 🤔
 
-🤔 I’m looking for help with getting rid of procrastination
+----
 
-## Some interesting code :arrow_right: [here](https://github.com/zhen8838/playground)
+### Some interesting code :arrow_right: [here](https://github.com/zhen8838/playground)
 
 <table>
 <thead>
