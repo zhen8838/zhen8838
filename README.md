@@ -4,6 +4,11 @@ I’m looking for help with getting rid of procrastination 🤔
 
 Some interesting code :arrow_right: [here](https://github.com/zhen8838/playground)
 
+-----
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!--
 **zhen8838/zhen8838** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
