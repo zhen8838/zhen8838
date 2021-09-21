@@ -8,11 +8,11 @@ Some interesting code :arrow_right: [here](https://github.com/zhen8838/playgroun
 
 <!--START_SECTION:waka-->
 ```text
-C++      47 hrs 48 mins  ███████████████████▒░░░░░   77.91 % 
-C        9 hrs 49 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
-CMake    1 hr 13 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
-Python   1 hr 3 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
-JSON     27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+C++        42 hrs 40 mins  █████████████████████░░░░   83.45 % 
+C          5 hrs 40 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+CMake      1 hr 1 min      ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
+Python     50 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
+Assembly   18 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
 ```
 <!--END_SECTION:waka-->
 
