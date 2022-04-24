@@ -9,9 +9,9 @@ Some interesting code :arrow_right: [here](https://github.com/zhen8838/playgroun
 <!--START_SECTION:waka-->
 
 ```text
-C#            30 hrs 29 mins  ███████████████▓░░░░░░░░░   62.13 %
-C++           4 hrs 56 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.06 %
-Other         4 hrs 39 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.50 %
+C#            22 hrs 20 mins  ████████████▒░░░░░░░░░░░░   49.87 %
+C++           4 hrs 48 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.73 %
+Other         3 hrs 52 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 %
 ```
 
 <!--END_SECTION:waka-->
