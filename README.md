@@ -9,9 +9,12 @@ Some interesting code :arrow_right: [here](https://github.com/zhen8838/playgroun
 <!--START_SECTION:waka-->
 
 ```text
-C          14 hrs 11 mins  █████████████▓░░░░░░░░░░░   54.34 %
-C++        7 hrs 3 mins    ██████▓░░░░░░░░░░░░░░░░░░   27.01 %
-Other      1 hr 22 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.25 %
+C            14 hrs 28 mins  ████████████▓░░░░░░░░░░░░   50.84 %
+C++          6 hrs 27 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.70 %
+C#           2 hrs 56 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.33 %
+CMake        1 hr 11 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 %
+Blazor       1 hr 5 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 %
+Other        1 hr            █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 %
 ```
 
 <!--END_SECTION:waka-->
