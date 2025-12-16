@@ -9,10 +9,11 @@ Some interesting code :arrow_right: [here](https://github.com/zhen8838/playgroun
 <!--START_SECTION:waka-->
 
 ```txt
-TeX            19 mins         ███████████░░░░░░░░░░░░░░   44.32 %
-Python         17 mins         █████████▓░░░░░░░░░░░░░░░   38.29 %
-Other          6 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.41 %
-OpenEdge ABL   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
+Python               1 hr 45 mins    █████████████████████▒░░░   85.00 %
+Bash                 8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.81 %
+JSON                 4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 %
+C++                  3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 %
+JSON with Comments   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
 ```
 
 <!--END_SECTION:waka-->
