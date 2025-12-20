@@ -9,11 +9,11 @@ Some interesting code :arrow_right: [here](https://github.com/zhen8838/playgroun
 <!--START_SECTION:waka-->
 
 ```txt
-Python               1 hr 45 mins    ████████████████████▓░░░░   82.90 %
-Bash                 10 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 %
-JSON                 4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 %
-C++                  3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
-JSON with Comments   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
+Python               2 hrs 11 mins   █████████████████████▒░░░   84.93 %
+Bash                 10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.93 %
+JSON                 4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
+C++                  3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
+Markdown             1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
 ```
 
 <!--END_SECTION:waka-->
