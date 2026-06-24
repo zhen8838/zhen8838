@@ -9,10 +9,9 @@ Some interesting code :arrow_right: [here](https://github.com/zhen8838/playgroun
 <!--START_SECTION:waka-->
 
 ```txt
-YAML    36 mins               ██████████████████▒░░░░░░   73.42 %
-Other   9 mins                ████▓░░░░░░░░░░░░░░░░░░░░   18.39 %
-TOML    2 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.05 %
-JSON    1 min                 ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 %
+YAML    26 mins               ██████████████████░░░░░░░   71.99 %
+Other   9 mins                ██████▒░░░░░░░░░░░░░░░░░░   25.04 %
+TOML    1 min                 ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
 ```
 
 <!--END_SECTION:waka-->
