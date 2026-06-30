@@ -19,6 +19,11 @@ I mostly make tensors go faster.
 #### 🔥 Latest from my blog — [zhen8838.github.io](https://zhen8838.github.io/)
 
 <!-- BLOG-POST-LIST:START -->
+- [CuTeDSL IKET 浅析](https://zhen8838.github.io/posts/iket.html)
+- [MTP 推测解码浅析](https://zhen8838.github.io/posts/mtp-speculative-decoding-deep-dive.html)
+- [Gated Delta Net 学习](https://zhen8838.github.io/posts/qwen35-gdn.html)
+- [Luminal 编译器浅析](https://zhen8838.github.io/posts/luminal.html)
+- [Vibe Coding 使用经验](https://zhen8838.github.io/posts/claude-code-tricks.html)
 <!-- BLOG-POST-LIST:END -->
 
 > auto-updated from my blog
