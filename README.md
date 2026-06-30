@@ -1,30 +1,33 @@
-I’m looking for help with getting rid of procrastination 🤔
+### Hi, I'm 郑启航 👋
 
------
+Compiler & GPU-kernel person in Shanghai —
+I mostly make tensors go faster.
 
-Some interesting code :arrow_right: [here](https://github.com/zhen8838/playground)
+> still looking for help with getting rid of procrastination 🤔
 
------
+---
 
-<!--START_SECTION:waka-->
+#### 🚀 Recently working on
 
-```txt
-SSH Config   21 mins               █████████████████████████   100.00 %
-```
+- **[TileOPs](https://github.com/tile-ai/TileOPs)** — high-performance LLM operator library on TileLang
+- **[TileRT](https://github.com/tile-ai/tilert)** — tile-based runtime for ultra-low-latency LLM inference
+- **[nncase](https://github.com/kendryte/nncase)** — end-to-end compiler for efficient LLM deployment ([paper](https://arxiv.org/abs/2512.21571))
+- **[handson-polyhedral](https://github.com/zhen8838/handson-polyhedral)** — hands-on tutorials on polyhedral compilation
 
-<!--END_SECTION:waka-->
+---
 
-<!--
-**zhen8838/zhen8838** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 🔥 Latest from my blog — [zhen8838.github.io](https://zhen8838.github.io/)
 
-Here are some ideas to get you started:
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
- ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> auto-updated from my blog
+
+---
+
+#### 🛠️ Earlier projects
+
+- **[Circle-Loss](https://github.com/zhen8838/Circle-Loss)** — TF2 implementation of CircleLoss
+- **[AnimeStylized](https://github.com/zhen8838/AnimeStylized)** — AnimeGAN / white-box cartoonize
+- **[K210_Yolo_framework](https://github.com/zhen8838/K210_Yolo_framework)** — YOLOv3 on the K210 edge chip
+- **[playground](https://github.com/zhen8838/playground)** — code for fun
