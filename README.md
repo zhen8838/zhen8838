@@ -19,11 +19,11 @@ I mostly make tensors go faster.
 #### 🔥 Latest from my blog — [zhen8838.github.io](https://zhen8838.github.io/)
 
 <!-- BLOG-POST-LIST:START -->
+- [从数据交接理解 GPU 内存一致性](https://zhen8838.github.io/posts/ptx-memory-consistency.html)
 - [从串行执行到 Control Bits：指令发射与依赖管理](https://zhen8838.github.io/posts/instruction-issue-from-first-principles.html)
 - [CuTeDSL IKET 浅析](https://zhen8838.github.io/posts/iket.html)
 - [MTP 推测解码浅析](https://zhen8838.github.io/posts/mtp-speculative-decoding-deep-dive.html)
 - [Gated Delta Net 学习](https://zhen8838.github.io/posts/qwen35-gdn.html)
-- [Luminal 编译器浅析](https://zhen8838.github.io/posts/luminal.html)
 <!-- BLOG-POST-LIST:END -->
 
 > auto-updated from my blog
